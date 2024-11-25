@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm  Mohamed  from Tunisia<br><br>- 🔭 I work as a software engineer, solving problems and building innovative solutions.<br>- 📚 I’m always eager to learn new technologies and enhance my skills.<br>- ⚡ In my free time, I enjoy exploring tech trends and working on personal projects.</p>
+<p align="left">I'm  Mohamed  from Tunisia<br><br>- 🔭 I work as a software engineer, solving problems and building innovative solutions.<br>- 📚 I’m always eager to learn new technologies and enhance my skills.<br>- ⚡ In my free time, I enjoy exploring tech trends and working on personal projects.<br><br>💡 If you'd like to view my private GitHub repository, feel free to reach out, and I'll send you the link.</p>
 
 ###
 
