@@ -103,20 +103,10 @@
 🔹 <b>Methods</b> — Agile, Scrum, UML, Code Review
 </p>
 
-###
 
-<h3 align="left">🔥 My GitHub Stats</h3>
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=medousji&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medousji&hide_border=true" height="165" alt="github streak stats"  />
-</div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medousji&layout=compact&hide_border=true" height="165" alt="top languages"  />
-</div>
 
 ###
 
